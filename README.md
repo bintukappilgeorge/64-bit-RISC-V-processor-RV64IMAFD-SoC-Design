@@ -49,7 +49,7 @@ To support pipelined execution, the design includes:
 
 ## How to Use
 ### **Simulation and Testing**
-- The design can be simulated using Verilog-based simulation tools such as **ModelSim, QuestaSim, or Verilator**.
+- The design can be simulated using Verilog-based simulation tools such as **ModelSim**.
 - A testbench should provide:
   - A clock and reset signal.
   - Instruction and data memory initialization.
@@ -65,11 +65,9 @@ To support pipelined execution, the design includes:
 - Improve **branch prediction (dynamic schemes)**.
 - Extend support for **RISC-V Vector (RVV) extensions**.
 
-## License
-This project is released under the **MIT License**.
 
 ## Contributors
-- [Your Name]
+- Bintu Kappil George
 - Open for contributions! Feel free to fork and submit PRs.
 
 ## Acknowledgments
