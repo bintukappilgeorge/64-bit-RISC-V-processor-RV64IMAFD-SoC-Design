@@ -54,6 +54,8 @@ To support pipelined execution, the design includes:
   - A clock and reset signal.
   - Instruction and data memory initialization.
   - Verification of pipeline execution and floating-point operations.
+![Screenshot 2025-02-23 184542](https://github.com/user-attachments/assets/0e783113-fb13-4bcc-873f-00a6cf044fc0)
+
 
 ### **FPGA Implementation**
 - This design can be synthesized for FPGA targets.
